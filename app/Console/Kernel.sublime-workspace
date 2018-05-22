@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fore",
+				"db2_foreign_keys"
+			],
+			[
+				"use",
+				"user_name"
+			],
+			[
+				"na",
+				"namespace"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/freya/lastproperworking2/database/migrations/2018_05_17_023044_create_users_table.php",
+		"/home/freya/lastproperworking2/app/Post.php",
+		"/home/freya/lastproperworking2/app/User.php",
+		"/home/freya/lastproperworking2/database/migrations/2018_05_19_072932_create_post_table.php",
+		"/home/freya/lastproperworking2/database/migrations/2018_05_21_091726_add_user_id_to_posts.php",
+		"/home/freya/lastproperworking2/database/migrations/2018_05_19_072931_create_post_table.php",
+		"/home/freya/lastproperworking2/database/migrations/2018_05_19_072930_create_posts_table.php",
+		"/home/freya/lastproperworking2/app/Http/Kernel.php",
+		"/home/freya/lastproperworking2/app/Http/Controllers/HomeController.php",
+		"/home/freya/lastproperworking2/app/Http/Controllers/PostController.php",
+		"/home/freya/lastproperworking2/routes/web.php",
+		"/home/freya/lastproperworking2/app/Http/Middleware/CheckIfAuthForPost.php",
+		"/home/freya/lastproperworking2/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/home/freya/fourthone55/routes/web.php",
+		"/home/freya/firsttwopost/routes/web.php",
+		"/home/freya/firstonepost/database/migrations/2018_05_19_065803_create_products_table.php",
+		"/home/freya/firstonepost/resources/views/products/create.blade.php",
+		"/home/freya/firstonepost/app/Product.php",
+		"/home/freya/firstonepost/routes/web.php",
+		"/home/freya/firstonepost/app/Http/Controllers/ProductController.php",
+		"/home/freya/firstonepost/resources/views/products/edit.blade.php",
+		"/home/freya/firstonepost/resources/views/products/index.blade.php",
+		"/home/freya/firsttwopost/database/migrations/2018_05_19_072930_create_posts_table.php",
+		"/home/freya/firsttwopost/resources/views/posts/create.blade.php",
+		"/home/freya/firsttwopost/app/Post.php",
+		"/home/freya/firsttwopost/app/Http/Controllers/PostController.php",
+		"/home/freya/firsttwopost/resources/views/posts/edit.blade.php",
+		"/home/freya/firsttwopost/resources/views/posts/index.blade.php",
+		"/home/freya/fourthone55/resources/views/admin/index.blade.php",
+		"/home/freya/fourthone55/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/freya/fourthone55/database/migrations/2018_05_17_114434_create_posts_table.php",
+		"/home/freya/fourthone55/config/database.php",
+		"/home/freya/secondattempt/package.json",
+		"/home/freya/firtattempt/composer.json",
+		"/home/freya/secondattempt/resources/views/layouts/master.blade.php",
+		"/home/freya/secondattempt/app/User.php",
+		"/home/freya/firtattempt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php",
+		"/home/freya/firtattempt/app/Providers/AppServiceProvider.php",
+		"/etc/php/7.1/cli/php.ini",
+		"/home/freya/fourthone55part2/database/migrations/2018_05_19_064819_create_products_table.php",
+		"/home/freya/fourthone55part2/database/migrations/2018_05_17_114434_create_posts_table.php",
+		"/home/freya/fourthone55/composer.json",
+		"/home/freya/fourthone55/app/Http/Resources/post.php",
+		"/home/freya/fourthone55/config/app.php",
+		"/home/freya/fourthone55/app/Http/Controllers/Views/index.blade.php",
+		"/home/freya/fourthone55/app/Http/Controllers/AuthController.php",
+		"/home/freya/fourthone55/resources/views/layouts/main.blade.php",
+		"/home/freya/fourthone55/database/seeds/UsersTableSeeder.php",
+		"/home/freya/fourthone55/database/seeds/DatabaseSeeder.php",
+		"/home/freya/fourthone55/.env",
+		"/home/freya/firtattempt/.env",
+		"/home/freya/fourthone55/database/seeds/App/user.php",
+		"/home/freya/thirdattemp/package.json",
+		"/home/freya/firtattempt/database/migrations/2018_05_17_023044_create_users_table.php",
+		"/home/freya/fourthone55/app/Http/Controllers/view/index.blade.php",
+		"/home/freya/fourthone55/database/migrations/2018_05_17_113826_create_users_table.php",
+		"/home/freya/fourthone55/database/migrations/201",
+		"/home/freya/firtattempt/package.json",
+		"/home/freya/secondattempt/resources/assets/sass/_variables.scss",
+		"/home/freya/secondattempt/resources/assets/sass/app.scss",
+		"/home/freya/firtattempt/resources/views/layouts/app.blade.php",
+		"/home/freya/secondattempt/resources/views/pages/about.blade.php",
+		"/home/freya/secondattempt/resources/views/pages/index.blade.php",
+		"/home/freya/secondattempt/resources/views/dashboard/index.blade.php",
+		"/home/freya/secondattempt/routes/web.php",
+		"/home/freya/secondattempt/app/Http/Controllers/Page/PageController.php",
+		"/home/freya/secondattempt/app/Http/Controllers/Dashboard/DashboardController.php",
+		"/home/freya/secondattempt/resources/views/auth/passwords/reset.blade.php",
+		"/home/freya/secondattempt/resources/views/auth/passwords/email.blade.php",
+		"/home/freya/secondattempt/resources/views/auth/register.blade.php",
+		"/home/freya/secondattempt/resources/views/auth/login.blade.php",
+		"/home/freya/secondattempt/resources/views/partials/_footer.blade.php",
+		"/home/freya/secondattempt/resources/views/partials/_header.blade.php",
+		"/home/freya/secondattempt/resources/views/partials/_navbar.blade.php",
+		"/etc/php/7.2/cli/php.ini"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"product",
+			"Product",
+			"product",
+			"roduc",
+			";\n",
+			"‘",
+			"’",
+			"')\n",
+			";extension=php_pdo_mysql.dll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Kernel.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -30,10 +30,10 @@ class CreatePostTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('posts');
-        Schema::table('posts', function (Blueprint $table) {
-            $table->dropForeign('posts_user_name_foreign');
-            $table->dropColumn('user_name');
+            Schema::dropIfExists('posts');
+            Schema::table('posts', function (Blueprint $table) {
+                $table->dropForeign('posts_user_name_foreign');
+                $table->dropColumn('user_name');
         });
     }
 }

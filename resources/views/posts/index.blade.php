@@ -35,4 +35,5 @@
       @endforeach
     </tbody>
   </table>
+    <a href="{{action('PostController@create')}}" class="btn btn-warning">Create</a>  
   </div>

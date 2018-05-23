@@ -61,6 +61,7 @@
                                     <form id="logout-form" action="<?php echo e(route('logout')); ?>" method="POST" style="display: none;">
                                         <?php echo csrf_field(); ?>
                                     </form>
+                                    <a href="<?php echo e(route('profile' , Auth::user()->name )); ?>"></a>
                                 </div>
                             </li>
                         <?php endif; ?>

@@ -13,7 +13,7 @@
         <th>Title</th>
         <th>Body</th>
         <th colspan="2">Action</th>
-      </tr>
+      </tr> 
     </thead>
     <tbody>
       <?php $__currentLoopData = $posts; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $post): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
@@ -34,6 +34,7 @@
       <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
     </tbody>
   </table>
+    <a href="<?php echo e(action('PostController@create')); ?>" class="btn btn-warning">Create</a>  
   </div>
 
 <?php echo $__env->make('layouts.app', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

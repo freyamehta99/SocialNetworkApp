@@ -25,7 +25,7 @@ class HomeController extends Controller
     // {
     //     return view('home');
     //     
-   // }
+       // }
      public function index()
     {
         $posts = Post::all();
